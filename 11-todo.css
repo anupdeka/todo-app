@@ -71,7 +71,7 @@ ul li::before {
     height: 18px;
     width: 18px;
     border-radius: 50%;
-    background-image: url(assests/images/unchecked.png);
+    background-image: url(unchecked.png);
     background-size: cover;
     background-position: center;
     top: 50%;
@@ -85,7 +85,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(assests/images/checked.png);
+    background-image: url(checked.png);
 
 }
 
